@@ -52,16 +52,16 @@ A basic blog application built using **React**, **React Router**, **Supabase**, 
 ## 📷 Screenshots
 
 ### Home Page
-![Home Page](./screenshots/Homepage.png)
+![Home Page](./Screenshots/Homepage.png)
 
 ### Login Page
-![Login Page](./screenshots/Signinpage.png)
+![Login Page](./Screenshots/Signinpage.png)
 
 ### Create Post Page
-![New Post Page](./screenshots/Newpostpage.png)
+![New Post Page](./Screenshots/Newpostpage.png)
 
 ### Detailed Post Page
-![New Post Page](./screenshots/Postpage.png)
+![New Post Page](./Screenshots/Postpage.png)
 
 
 ---
